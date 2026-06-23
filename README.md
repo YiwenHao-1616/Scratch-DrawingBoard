@@ -5,9 +5,12 @@ v1 (2026.06.23)
 # 作品展示：
 <img width="1600" height="829" alt="b1831717617f2536430177df235ef385" src="https://github.com/user-attachments/assets/98b77503-4dd3-4dc2-805d-86edeeb858b6" />
 
+# 运行平台
+Scratch3.0、TurboWarp（鸣谢开发者）
+
 # 功能讲解
 1.下方面板滑动条依次用于调节画笔的颜色、饱和度、亮度、粗细以及透明度；
-<img width="908" height="104" alt="image" src="https://github.com/user-attachments/assets/ad44e556-6101-4374-b2b8-ed89c2345da0" />
+<img width="901" height="111" alt="image" src="https://github.com/user-attachments/assets/c2e1a16e-31f2-461c-845e-4815db061761" />
 2.右下方绿色半圆按钮用于生成作品文件，点击后会生成保存数据和"save"面板，右键可以保存/导入（格式为.txt)；鼠标移出"save"面板后面板自动关闭；
 <img width="338" height="276" alt="image" src="https://github.com/user-attachments/assets/ffd950bc-0b77-49d2-a28a-761b43b8aac0" />
 3.右下方橙色半圆按钮用于复现"save"面板包含的数据；
