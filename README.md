@@ -1,5 +1,5 @@
 ## Scratch-DrawingBoard Scratch画板
-v1 (2026.06.23)
+v1.1 (2026.06.23)
 
 有趣精致的Scratch作品
 
