@@ -6,6 +6,9 @@ v1.1 (2026.06.23)
 # 作品展示：
 <img width="1600" height="829" alt="b1831717617f2536430177df235ef385" src="https://github.com/user-attachments/assets/98b77503-4dd3-4dc2-805d-86edeeb858b6" />
 
+<img width="74" height="21" alt="image" src="https://github.com/user-attachments/assets/fbf695b1-03db-4b9a-b680-661c922ea6e7" />
+
+
 # 运行平台
 Scratch3.0、TurboWarp（鸣谢开发者）
 
